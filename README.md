@@ -4,7 +4,8 @@
 This project was built by me using HTML and JS. It was an exercise to practice fetching API's
 
 
-![Random Dog](./random-dog.png)
+![Random Dog](https://user-images.githubusercontent.com/78431899/189465812-cb291bac-3796-48d7-bba7-4de411633460.png)
+ng)
 
 ## Technologies Used
 * HTML
