@@ -10,7 +10,7 @@ ng)
 ## Technologies Used
 * HTML
 * CSS
-
+* API
 
 ## Installation
 No need to install any software, just open up index.html and run it
