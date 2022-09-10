@@ -4,7 +4,7 @@
 This project was built by me using HTML and JS. It was an exercise to practice fetching API's
 
 
-![Random Dog](random-dog.png)
+![Random Dog](./random-dog.png)
 
 ## Technologies Used
 * HTML
