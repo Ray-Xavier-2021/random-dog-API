@@ -4,8 +4,12 @@
 This project was built by me using HTML and JS. It was an exercise to practice fetching API's
 
 
+[Live Repl Deployment](https://fork-this-javascript-course-by-clever-programmer.ray-xavier-2021.repl.co/api/dogRandom/index.html)
+
+
 ![Random Dog](https://user-images.githubusercontent.com/78431899/189465812-cb291bac-3796-48d7-bba7-4de411633460.png)
 ng)
+
 
 ## Technologies Used
 * HTML
